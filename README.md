@@ -1,2 +1,3 @@
-# Shopping-List
-add items with prices to a shopping list. This program will print the price of the entire list along with every item purchased
+User inputs item along with price
+Computer logs the item and adds the price to a total
+Computer prints total and the items bought
